@@ -1,12 +1,12 @@
 {
-    "masterVersionFile":"https://dl.dropbox.com/scl/fi/vdly5zwek68cgc6qgb30d/PAGSM-v1.12.1.zip?rlkey=ao5nt4iz2g0kit3p0kzw5avad&dl=0",
+    "masterVersionFile":"https://raw.githubusercontent.com/WMGreywind/PAGSM/main/pagsm.version",
     "modName":"Phillip Andrada: Gas Station Manager",
     "modThreadId":"24215",
     "modVersion":
     {
         "major":1,
-        "minor":12,
-        "patch":"1"
+        "minor":13,
+        "patch":"0"
     },
 	"starsectorVersion":"0.96a-RC10"
 }
